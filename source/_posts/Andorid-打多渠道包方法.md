@@ -22,7 +22,7 @@ tags:
 
 ### 2.0 配置 build.gradle
 
-在 defaultConfig 中加入如下配置，指明要动态配置的维度。
+#### 2.1 在 defaultConfig 中加入如下配置，指明要动态配置的维度。
 ```
 flavorDimensions "channel"
 ```

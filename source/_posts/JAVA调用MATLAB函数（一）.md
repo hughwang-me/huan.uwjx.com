@@ -1,7 +1,7 @@
 ---
 title: JAVA调用MATLAB函数（一）
 date: 2020-09-21 17:50:03
-categories: MATLAB JAVA调用MATLAB 
+categories: MATLAB 
 summary: JAVA调用MATLAB函数（一）
 tags:
     - MATLAB

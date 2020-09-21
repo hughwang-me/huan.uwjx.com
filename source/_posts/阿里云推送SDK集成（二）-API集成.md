@@ -1,7 +1,7 @@
 ---
 title: 阿里云推送SDK集成（二） API 集成
 date: 2020-09-09 10:56:45
-categories: 消息推送 阿里云消息推送 
+categories: 消息推送 
 summary: 阿里云推送SDK集成（二） API 集成
 tags:
     - 消息推送

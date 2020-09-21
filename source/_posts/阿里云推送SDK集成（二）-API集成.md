@@ -18,7 +18,10 @@ https://help.aliyun.com/document_detail/181548.html?spm=a2c4g.11186623.6.549.a28
 
 https://help.aliyun.com/knowledge_detail/48089.html?spm=a2c4g.11186631.2.5.396d24e1MBre1j
 ```
-首先在阿里云后台创建好应用，获取 `AppKey` 和 `AppSecret` ，并配置好包名等信息；
+本章节源码:
+```
+https://github.com/hughwang-me/aliyun-push-service
+```
 
 ### 1.引入依赖
 

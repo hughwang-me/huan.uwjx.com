@@ -47,3 +47,11 @@ public class DesignatorsPointCut {
 private void logMessage(){}
 
 ```
+### 第三步：五种 Advice 注解
+
+#### 第一种： `@Before`
+#### 第二种： `@After`
+#### 第三种： `@AfterReturning`
+#### 第四种： `@AfterThrowing`
+#### 第五种： `@Around`
+
